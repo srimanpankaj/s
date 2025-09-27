@@ -15,7 +15,7 @@ name                     : &name "Sriman Pankaj Boindala"
 description              : &description "personal description"
 url                      : https://srimanpankaj.github.io/s # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "srimanpankaj/srimanpankaj.github.io/s/"
+repository               : "srimanpankaj/srimanpankaj.github.io/s"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
