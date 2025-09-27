@@ -6,26 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*A Researcher, Engineer, and Occasional Water Whisperer*  
+## 🌊 Research Focus
+I am a **Postdoctoral Researcher** at the **Technion – Israel Institute of Technology**, specializing in **water distribution systems, computational hydraulics, and optimization under uncertainty**.  
+My research aims to improve the **resilience, efficiency, and equity** of urban water supply systems through advanced modeling, optimization, and decision-support frameworks.  
 
-## 🌊 Passion for Water Resource Management
-*"If water is life, then optimizing its distribution is the key to sustainability."* 
+Previously, I contributed to the **ERC Synergy Grant "Water Futures"** at the **KIOS Research Center, University of Cyprus**, where I worked on fairness-aware operation and sustainable water management strategies. My work integrates **engineering principles, optimization techniques, and computational methods** to address global water challenges.  
 
- 
-I’m a **Postdoctoral Researcher** at the **Technion-Israel Institute of Technology**, where I dive into the thrilling world of **water distribution systems, computational hydraulics, and robust optimization**. My mission? To make water supply systems more **resilient, equitable, and efficient**—because if water can squeeze through a rock, surely I can navigate through complex optimization problems with a smile.
+---
 
+## 🎓 Academic Background
+- **Ph.D. in Civil & Environmental Engineering** – Technion – Israel Institute of Technology  
+- **M.Eng. in Structural Engineering** – BITS Pilani  
+- **B.Eng. in Civil Engineering** – BITS Pilani  
 
-Before this, I was part of the **ERC Synergy Grant "Water Futures"** project at the **KIOS Research Center, University of Cyprus**, where I spent my time figuring out how to get high-quality water to everyone—fairly (because, let's face it, even water has trust issues). My work is where **engineering, mathematics, and decision-making under uncertainty** collide—because sometimes, even water doesn’t know where it’s going!
-## 🎓 Academic Journey: From Concrete to Computational Hydraulics  
-- **Ph.D. in Civil & Environmental Engineering** – Technion-Israel Institute of Technology 🏗️💧  
-- **M.Eng. in Structural Engineering** – BITS Pilani (yes, I briefly flirted with concrete before falling for water)  
-- **B.Eng. in Civil Engineering** – BITS Pilani (where it all started)  
-
-## 🏆 Research Highlights  
-🚰 **Water Distribution Systems Optimization** – Making sure cities don’t turn into Mad Max: Water Wars.  
-🦠 **Water Quality & Bacterial Growth Modeling** – Because no one wants a side of microbes with their drinking water.  
-⚙️ **Robust Optimization & AI in Water Management** – Teaching computers how to be better at managing water than humans.  
-💡 **Fairness in Water Supply** – Because water inequality shouldn’t be a thing in the 21st century.  
+---
 
 ## 🏆 Awards & Fellowships
 - **Alexander von Humboldt Research Fellowship** – Germany (2026–2028)  
@@ -33,17 +27,31 @@ Before this, I was part of the **ERC Synergy Grant "Water Futures"** project at 
 - **Best Reviewer Award** – *ASCE Journal of Water Resources Planning and Management* (2024)  
 - **Best Paper Award** – *International Conference on Recent Advances in Civil Engineering (ICRACE)* (2021)  
 
-## 🔧 Technical Toolbox  
-💻 **Programming:** Python, R, MATLAB  
-📊 **Modeling & Simulation:** EPANET, AutoCAD, ArcGIS, LINGO, GUROBI  
-🛠️ **Optimization Techniques:** Evolutionary Algorithms, Robust Optimization, Mixed Integer Programming  
+---
 
-## ✍️ Publications & Editorial Work  
-- 📖 **Associate Editor** – *Journal of Water Resource Planning & Management (ASCE)*  
-- 📑 **Reviewer** – *Water Resources Management (Springer), ASCE Journals, IWA Publishing*  
-- 📝 **15+ Peer-Reviewed Publications** – Covering topics from **optimal chlorination** to **machine-learning-driven concrete mix design** (yes, I did dabble in sustainable concrete before diving deep into water).  
+## 💡 Research Highlights
+- **Water Distribution Systems Optimization** – Design and operation under demand and quality uncertainty.  
+- **Water Quality and Contaminant Transport Modeling** – Ensuring public health and safety in urban networks.  
+- **Robust and Stochastic Optimization** – Reliable decision-making under uncertainty.  
+- **Equity in Water Supply** – Integrating fairness into system design and operation.  
 
-## 🌍 Professional Memberships & Roles  
-- **Affiliate Member** – *American Society of Civil Engineers (ASCE)*  
+---
+
+## 🔧 Technical Skills
+- **Programming:** Python, R, MATLAB  
+- **Modeling & Simulation:** EPANET, ArcGIS, AutoCAD, GUROBI  
+- **Optimization Methods:** Mixed Integer Programming, Robust Optimization, Stochastic Modeling, Evolutionary Algorithms  
+
+---
+
+## 📑 Publications & Editorial Work
+- **Associate Editor** – *Journal of Water Resources Planning & Management (ASCE)*  
+- **Reviewer** – *Water Resources Management (Springer), ASCE Journals, IWA Publishing*  
+- **15+ Peer-Reviewed Publications** – Covering topics such as water distribution optimization, chlorine booster scheduling, and data-driven methods for water management  
+
+---
+
+## 🌍 Professional Memberships & Roles
+- **Member** – *American Society of Civil Engineers (ASCE)*  
 - **Co-Chair** – *Task Committee on Benchmarking Optimal Operation of Water Distribution Systems, EWRI ASCE*  
 - **Vice Chair** – *Task Committee on Generative AI in Publishing, EWRI ASCE*  
