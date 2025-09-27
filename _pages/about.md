@@ -27,6 +27,12 @@ Before this, I was part of the **ERC Synergy Grant "Water Futures"** project at 
 ⚙️ **Robust Optimization & AI in Water Management** – Teaching computers how to be better at managing water than humans.  
 💡 **Fairness in Water Supply** – Because water inequality shouldn’t be a thing in the 21st century.  
 
+## 🏆 Awards & Fellowships
+- **Alexander von Humboldt Research Fellowship** – Germany (2026–2028)  
+- **Marie Skłodowska-Curie Postdoctoral Fellowship – Seal of Excellence** – European Commission (2025)  
+- **Best Reviewer Award** – *ASCE Journal of Water Resources Planning and Management* (2024)  
+- **Best Paper Award** – *International Conference on Recent Advances in Civil Engineering (ICRACE)* (2021)  
+
 ## 🔧 Technical Toolbox  
 💻 **Programming:** Python, R, MATLAB  
 📊 **Modeling & Simulation:** EPANET, AutoCAD, ArcGIS, LINGO, GUROBI  
