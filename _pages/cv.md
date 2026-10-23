@@ -6,7 +6,22 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+### October 2026
+- Abstract accepted for an oral presentation at the *AGU26 Annual Meeting*, San Francisco (7–11 December 2026):
+  - *"Does Infrastructure Failure Worsen Water-quality Inequity in Water Distribution Systems?"*  
+    Session SY33B: *Water and Society: Equity and Justice in Water Systems II*, Wednesday, 9 December 2026.
+
+### May 2026
+- Gave an invited lecture, *"Simulation of Water Quality Dynamics in Water Distribution Systems: Theory and Hands-on with WNTR"*, in the course *Data Science & Artificial Intelligence for Urban Water Management* (SoSe 2026) at the Chair of Digital Water Systems, TU Berlin.
+
+### January 2026
+- Started my Alexander von Humboldt Research Fellowship at the Chair of Digital Water Systems, TU Berlin, hosted by Prof. Andrea Cominola. Project: *Adaptive Resilience of Water Distribution Systems (ARWADS)*.
+
+### November 2025
+- Gave an invited lecture, *"Steady-State and Extended Period Simulations (EPS): Understanding Pressures, Flows, and Demands"*, at the Short-Term Course *Source to Tap: Design and Analysis of Water Supply Systems*, IIT Kanpur.
+
 ### July 2025
+
 - Developing a reinforcement learning framework for adaptive water quality control in contaminated water distribution systems.
 - Developing DeePC based control framework for chlorine dosage
 

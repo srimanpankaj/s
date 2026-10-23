@@ -7,51 +7,53 @@ redirect_from:
   - /about.html
 ---
 ## 🌊 Research Focus
-I am a **Postdoctoral Researcher** at the **Technion – Israel Institute of Technology**, specializing in **water distribution systems, computational hydraulics, and optimization under uncertainty**.  
-My research aims to improve the **resilience, efficiency, and equity** of urban water supply systems through advanced modeling, optimization, and decision-support frameworks.  
+I am an **Alexander von Humboldt Research Fellow** at the **Chair of Digital Water Systems, Technical University of Berlin (TU Berlin)**, working with Prof. Andrea Cominola. My research focuses on **systems-level modeling, optimization, and resilience of urban water distribution networks under severe uncertainty**.
 
-Previously, I contributed to the **ERC Synergy Grant "Water Futures"** at the **KIOS Research Center, University of Cyprus**, where I worked on fairness-aware operation and sustainable water management strategies. My work integrates **engineering principles, optimization techniques, and computational methods** to address global water challenges.  
+My work bridges hydraulic engineering, transport physics, and mathematical optimization. It addresses vulnerabilities in municipal water infrastructure where conventional probabilistic assumptions fail, drawing on robust optimization, Info-Gap Decision Theory, stochastic modeling, and data-driven methods.
+
+My current Humboldt project, **Adaptive Resilience of Water Distribution Systems (ARWADS)**, develops adaptive topology frameworks and intelligent control for cyber-physical water networks under extreme stresses such as pipe breaks, contamination, and water scarcity, using physics-informed machine learning and reinforcement learning for real-time network reconfiguration.
+
+Before TU Berlin, I was a postdoctoral researcher at the **Technion – Israel Institute of Technology** (Israel–Germany *StaySafe* project on antimicrobial resistance in reclaimed-water irrigation) and at the **KIOS Research and Innovation Center of Excellence, University of Cyprus** (ERC Synergy Grant *Water-Futures*), where I worked on embedding equity into water distribution optimization.
+
+---
+
+## 💡 Research Thrusts
+- **Optimization Under Uncertainty in WDS Design & Operations** – Robust optimization, stochastic modeling, Info-Gap Decision Theory, and control frameworks for resilient smart water grids.
+- **Water Quality & Contaminant Dynamics** – Contaminant propagation modeling and booster disinfection scheduling under uncertainty.
+- **Infrastructure Equity & Adaptation** – Embedding distributive justice and equitable resource allocation into algorithmic decision-making.
 
 ---
 
 ## 🎓 Academic Background
-- **Ph.D. in Civil & Environmental Engineering** – Technion – Israel Institute of Technology  
-- **M.Eng. in Structural Engineering** – BITS Pilani  
-- **B.Eng. in Civil Engineering** – BITS Pilani  
+- **Ph.D. in Civil & Environmental Engineering** – Technion – Israel Institute of Technology (2020–2023)  
+  *Thesis: Uncertainty Inclusion in Design-Optimization of Multi-Quality Water Distribution Systems*
+- **M.Eng. in Structural Engineering** – BITS Pilani (2017–2019)
+- **B.Eng. in Civil Engineering** – BITS Pilani (2013–2017)
 
 ---
 
 ## 🏆 Awards & Fellowships
-- **Alexander von Humboldt Research Fellowship** – Germany (2026–2028)  
-- **Marie Skłodowska-Curie Postdoctoral Fellowship – Seal of Excellence** – European Commission (2025)  
-- **Best Reviewer Award** – *ASCE Journal of Water Resources Planning and Management* (2024)  
-- **Best Paper Award** – *International Conference on Recent Advances in Civil Engineering (ICRACE)* (2021)  
+- **Alexander von Humboldt Research Fellowship** – Alexander von Humboldt Foundation, Germany (2026–2028)
+- **Marie Skłodowska-Curie Actions – Seal of Excellence** – European Commission (2024 & 2025)
+- **Best Reviewer Award** – *ASCE Journal of Water Resources Planning and Management* (2024)
+- **Best Paper Award** – *First International Conference on Recent Advancements in Civil Engineering (ICRACE 2021)*, NIT Silchar
+- **Best Oral Presentation Award** – *National Symposium on Emerging Environmental Challenges (EEC 2018)*, CSIR-NEERI
 
 ---
 
-## 💡 Research Highlights
-- **Water Distribution Systems Optimization** – Design and operation under demand and quality uncertainty.  
-- **Water Quality and Contaminant Transport Modeling** – Ensuring public health and safety in urban networks.  
-- **Robust and Stochastic Optimization** – Reliable decision-making under uncertainty.  
-- **Equity in Water Supply** – Integrating fairness into system design and operation.  
+## 📑 Editorial Work & Professional Service
+- **Associate Editor** – *Journal of Water Resources Planning and Management (ASCE)*
+- **Lead Guest Editor** – Special Collection on *Machine Learning and Artificial Intelligence in Water Distribution Systems*, *JWRPM (ASCE)*
+- **Co-Guest Editor** – Special Issue on *Optimisation of Water Distribution System Design and Operation Under Uncertainty*, *Water (MDPI)*
+- **Chair** – ASCE-EWRI Task Committee on Generative AI in Publishing
+- **Member** – ASCE-EWRI Task Committee on ML/AI Applications in Water Engineering
+
+**13 peer-reviewed journal articles** (h-index 10, 220+ citations). See [Publications](publications/) or [Google Scholar](https://scholar.google.com/citations?user=df533j8AAAAJ&hl=en).
 
 ---
 
 ## 🔧 Technical Skills
-- **Programming:** Python, R, MATLAB  
-- **Modeling & Simulation:** EPANET, ArcGIS, AutoCAD, GUROBI  
-- **Optimization Methods:** Mixed Integer Programming, Robust Optimization, Stochastic Modeling, Evolutionary Algorithms  
-
----
-
-## 📑 Publications & Editorial Work
-- **Associate Editor** – *Journal of Water Resources Planning & Management (ASCE)*  
-- **Reviewer** – *Water Resources Management (Springer), ASCE Journals, IWA Publishing*  
-- **15+ Peer-Reviewed Publications** – Covering topics such as water distribution optimization, chlorine booster scheduling, and data-driven methods for water management  
-
----
-
-## 🌍 Professional Memberships & Roles
-- **Member** – *American Society of Civil Engineers (ASCE)*  
-- **Co-Chair** – *Task Committee on Benchmarking Optimal Operation of Water Distribution Systems, EWRI ASCE*  
-- **Vice Chair** – *Task Committee on Generative AI in Publishing, EWRI ASCE*  
+- **Optimization & Decision Theory:** Robust Optimization, Info-Gap Decision Theory, Multi-Objective Optimization, Stochastic Modeling, GUROBI, CVXPY, LINGO
+- **Hydraulic & Water Quality Simulation:** EPANET, EPANET-IMX, EPANET-MSX, WNTR, EPyT
+- **Data-Driven Methods:** Statistical Learning, Regression, Decision Trees, Safe Data-Enabled Predictive Control (Safe DeePC); in development: Physics-Informed ML, Reinforcement Learning, Graph Neural Networks
+- **Computing:** Python, MATLAB, R, ArcGIS

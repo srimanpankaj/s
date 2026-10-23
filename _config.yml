@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Sriman's Homepage"
 title_separator          : "-"
 name                     : &name "Sriman Pankaj Boindala"
-description              : &description "personal description"
-url                      : https://srimanpankaj.github.io/s # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "srimanpankaj/srimanpankaj.github.io/s"
+description              : &description "Sriman Pankaj Boindala – Alexander von Humboldt Research Fellow at TU Berlin working on optimization and resilience of water distribution systems under uncertainty."
+url                      : https://srimanpankaj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/s" # the subpath of your site, e.g. "/blog"
+repository               : "srimanpankaj/s"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Sriman Pankaj Boindala"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
-  location         : "Israel"
-  employer         : "Technion-Israel Institue of Technology"
+  bio              : "Alexander von Humboldt Research Fellow"
+  location         : "Berlin, Germany"
+  employer         : "Technical University of Berlin (TU Berlin)"
   uri              : # URL
   email            : "srimanpankaj@gmail.com" 
 
